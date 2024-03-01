@@ -27,11 +27,10 @@ This project aims to build a comprehensive data pipeline for gathering cryptocur
 ## Data Model
 ![Untitled](https://github.com/kingsley-123/Coinlore-Pipeline/assets/63650573/bd102de7-ed35-47d4-98e7-bce9fb8326cf)
 
-## SQL Query
-N/A
-
 ## Apache Airflow DAG
-N/A
+![carbon](https://github.com/kingsley-123/Coinlore-Pipeline/assets/63650573/54b5d247-3a8b-4dce-ba14-9ba06ee71cc5)
+![carbon (1)](https://github.com/kingsley-123/Coinlore-Pipeline/assets/63650573/d84bb462-d1b4-49bc-99cd-16daa0a76fcb)
+![carbon (2)](https://github.com/kingsley-123/Coinlore-Pipeline/assets/63650573/e3ea5cc5-4337-4161-bbda-d664328af2be)
 
 ## View ETL
 ![Screenshot (25)](https://github.com/kingsley-123/Coinlore-Pipeline/assets/63650573/653e91aa-a6c0-459a-9d39-0e7af479ea46)
