@@ -32,6 +32,14 @@ This project aims to build a comprehensive data pipeline for gathering cryptocur
 ![carbon (1)](https://github.com/kingsley-123/Coinlore-Pipeline/assets/63650573/d84bb462-d1b4-49bc-99cd-16daa0a76fcb)
 ![carbon (2)](https://github.com/kingsley-123/Coinlore-Pipeline/assets/63650573/e3ea5cc5-4337-4161-bbda-d664328af2be)
 
+## Transformation Append files (Databricks)
+![vertopal com_coinlore append data_page-0001](https://github.com/kingsley-123/Coinlore-Pipeline/assets/63650573/1d8130e3-86d8-4733-a744-e9d48e5202e4)
+![vertopal com_coinlore append data_page-0002](https://github.com/kingsley-123/Coinlore-Pipeline/assets/63650573/3ed61085-cf65-4e65-9819-36d1a1bd6faf)
+
+## Transformation Processed files (Databricks)
+![vertopal com_coinlore processed data_page-0001](https://github.com/kingsley-123/Coinlore-Pipeline/assets/63650573/9500e1d2-1375-475a-84cf-55e5ed49b1a8)
+![vertopal com_coinlore processed data_page-0002](https://github.com/kingsley-123/Coinlore-Pipeline/assets/63650573/31b84734-a1d2-4f0c-ba38-a5708d92ea79)
+
 ## View ETL
 ![Screenshot (25)](https://github.com/kingsley-123/Coinlore-Pipeline/assets/63650573/653e91aa-a6c0-459a-9d39-0e7af479ea46)
 
@@ -41,7 +49,16 @@ This project aims to build a comprehensive data pipeline for gathering cryptocur
 
 
 ## Development Setup
-N/A
+To set up and run the cryptocurrency data pipeline locally, follow these steps:
+- Install required Python packages (Pandas, Requests).
+- Obtain access to the Coinlore API.
+- Configure Kafka broker connection details.
+- Set up Power BI for visualization (if not already installed).
+- Set up Azure Data Factory for orchestration and scheduling of data pipeline workflows.
+- Configure Azure Databricks for scalable data processing and transformations.
+- Set up Azure Synapse Analytics for data warehousing and advanced analytics capabilities.
+- Execute the Apache Airflow DAG to initiate the pipeline.
+
 
 ## Conclusion
-N/A
+This project aims to provide a comprehensive solution for fetching, transforming, and visualizing cryptocurrency data. By leveraging modern data technologies such as Kafka for streaming and Power BI for visualization, it enables real-time analysis and decision-making based on cryptocurrency metrics. The structured data pipeline ensures scalability and flexibility to accommodate future enhancements or additional data sources.
